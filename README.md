@@ -1,2 +1,1 @@
-# PrepCurse-Henry
-Este es un repositorio del modulo2 del prepcurse de Henry
+este es un repositorio de prueba de como clonor en hithub a la computadora.
